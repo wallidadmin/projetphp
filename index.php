@@ -5,6 +5,7 @@ $largeur = $_POST['largeur'];
 $surface = $longeur*$largeur;
 
 var_dump ($longeur);
+
 echo "$longeur";
 
 
